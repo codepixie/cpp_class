@@ -1,5 +1,8 @@
+//C++ Programming - From Problem Analysis to Program Design 8th Edition
+// Chapter 2 - Exercise 5
+// cekker@me.com
 //Description: Write a program to input each of Fred's scores for each of the the five grade components. Calculate his class grade based on the percentages assigned to each item.
-
+//
 #include <iostream>
 
 using namespace std;
