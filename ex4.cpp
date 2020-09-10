@@ -1,7 +1,7 @@
 /*****************************************************************************
  C++ Programming - From Problem Analysis to Program Design 8th Edition
  Chapter 2 - Exercise 4
- cekker@me.cm
+ cekker@me.com
  
 Consider the following program segment:
 //include statement(s)
